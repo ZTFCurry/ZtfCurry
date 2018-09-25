@@ -1,0 +1,2 @@
+# ZtfCurry
+Practice
